@@ -1,0 +1,13 @@
+<framework>
+  <pages>
+    <page desc-id="" feature-id="" name="-1">
+      <templates>
+        <template>
+          <page-sections>
+            <page-section file-name="@jQuery:/jsp/Global_Links.jsp" name="links"/>
+          </page-sections>
+        </template>
+      </templates>
+    </page>
+  </pages>
+</framework>
